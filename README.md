@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Singh</h1>
 <h3 align="center">An Enthusiast Full Stack Web developer from India</h3>
 
-<div align="center">
-  <p align="center">🏆 Dynamically Generated GitHub Stat Trophies Using API</p>
-</div>
-
 <p align="center">
   This service is free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
@@ -31,9 +27,11 @@
 
 ### Connect with me
 
-| LinkedIn | Gmail |
-|----------|-------|
+| LinkedIn | Gmail | LinkedIn | LeetCode |
+|----------|-------|----------|---------|
 |<a href="https://linkedin.com/in/avinash-singh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-singh75" height="30" width="40" /></a>
+<a href="mailto:avinashlpu75@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="55" width="55" />
+
 <a href="https://instagram.com/avinash75s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinash75s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avinash75s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash75s" height="30" width="40" /></a>
 
