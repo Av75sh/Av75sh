@@ -83,3 +83,16 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|
 
 ---
+
+
+<p align="center">
+  <img width="800" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalyadav0987&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Top Languages" />
+</p>
