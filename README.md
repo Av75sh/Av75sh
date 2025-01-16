@@ -24,7 +24,7 @@
 |----------|-------|-----------|----------|
 |<a href="https://linkedin.com/in/avinash-singh75" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="60" /></a>|<a href="mailto:avinashlpu75@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="45" width="60" /></a>|<a href="https://instagram.com/avinash75s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="60" /></a>|<a href="https://www.leetcode.com/avinash75s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="60" /></a>|
 
-Let’s Connect! I’m excited to connect with professionals and enthusiasts. Feel free to reach out!
+Let’s Connect! I’m excited to connect with professionals and enthusiasts. Feel free to reach out!!
 
 ---
 
@@ -51,6 +51,7 @@ Let’s Connect! I’m excited to connect with professionals and enthusiasts. Fe
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="45" height="45"/>|
 
 ---
+
 
 ### MERN Stack Developer
 | MongoDB | Express.js | React.js | Node.js |
