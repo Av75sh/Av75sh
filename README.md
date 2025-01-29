@@ -60,3 +60,25 @@ Let’s Connect! I’m excited to connect with professionals and enthusiasts. Fe
 
 ---
 
+## GitHub Stats 📊
+
+
+<p align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000">
+  <img alt="Av75sh's GitHub Stats" 
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/Av75sh?cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000" 
+        />
+</a>
+
+</p>
+
+<p align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Av75sh&theme=highcontrast&hide_border=true" alt="Av75sh's Streak" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Av75sh&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" alt="Top Languages" />
+</p>
