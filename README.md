@@ -73,7 +73,7 @@ Let’s Connect! I’m excited to connect with professionals and enthusiasts. Fe
 </p>
 
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Av75sh&theme=highcontrast&hide_border=true" alt="Av75sh's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Av75sh&theme=highcontrast&hide_border=true" alt="Av75sh's Streak"/>
 </p>
 
 
