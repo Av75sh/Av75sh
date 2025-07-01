@@ -80,6 +80,19 @@ Let’s Connect! I’m excited to connect with professionals and enthusiasts. Fe
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|------------|
+| [ Codolio](https://codolio.com/profile/Avinash7) |  Mastering Data Structures and Algorithms | Java, JavaScript | [Visit](https://codolio.com/profile/Avinash7) |
+| [TrustChain](https://github.com/Av75sh/TrustChain) | A blockchain-based PR and marketing platform ensuring transparency and trust in digital campaigns. | React Js, Git, GitHub | [Visit](https://trust-chain-7x74.vercel.app/) |
+| [Auditor](https://github.com/Av75sh/Auditor) | A command-line auditing tool designed to analyze and verify source code structure, enforce consistency, and identify potential issues. | React, Framer Motion, JS, CSS | [Visit](https://auditor-liart.vercel.app/) |
+
+---
+
+
 ## GitHub Stats 📊
 
 
