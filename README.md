@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avinash Singh </h1>
-<h3 align="center">An Enthusiast Full Stack Web developer from India</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Avinash Singh</h1> <h3 align="center">🚀 Full Stack Web Developer | AI & LLM Enthusiast | India </h3> 
+<p align="left"> Passionate about building scalable, intelligent, and user-centric web applications. Always exploring how <b>Generative AI</b> can elevate developer productivity and web experiences. </p>
+<p align="left">
   This service is free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
 
@@ -12,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web3 (Next.js, web3js, Solidity)**
 
-- 💬 Ask me about **Frontend & Backend web development**
+- 💬 Ask me about Full Stack Development (MERN), API design, or AI/LLM integration in real-world web projects.
 
 - 📫 How to reach me **avinashlpu75@gmail.com**
 
