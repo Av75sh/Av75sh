@@ -85,9 +85,9 @@ Git | Postman | Docker | Redis | Jenkins |
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|------------|
-| [ Codolio](https://codolio.com/profile/Avinash7) |  Mastering Data Structures and Algorithms | Java, JavaScript | [Visit](https://codolio.com/profile/Avinash7) |
-| [TrustChain](https://github.com/Av75sh/TrustChain) | A blockchain-based PR and marketing platform ensuring transparency and trust in digital campaigns. | React Js, Git, GitHub | [Visit](https://trust-chain-7x74.vercel.app/) |
-| [Auditor](https://github.com/Av75sh/Auditor) | A command-line auditing tool designed to analyze and verify source code structure, enforce consistency, and identify potential issues. | React, Framer Motion, JS, CSS | [Visit](https://auditor-liart.vercel.app/) |
+| [ CompileHub ](https://github.com/Av75sh/compilehub) |  CompileHub is an online code editor that enables users to write, compile, and execute code in multiple programming languages | MERN | [Visit](https://github.com/Av75sh/compilehub) |
+[DevChat](https://github.com/Av75sh/DevChat) | DevChat is a full-stack real-time chat application that enables users to join a chat room and communicate instantly via WebSockets. | MERN | [Visit](https://github.com/Av75sh/DevChat) |
+| [TrustChain](https://github.com/Av75sh/TrustChain) | A blockchain-based PR and marketing platform ensuring transparency and trust in digital campaigns. | TypeScript | [Visit](https://trust-chain-7x74.vercel.app/) |
 
 ---
 
