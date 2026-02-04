@@ -103,14 +103,3 @@ Git | Postman | Docker | Redis | Jenkins |
 </a>
 
 </p>
-
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Av75sh&theme=highcontrast&hide_border=true" alt="Av75sh's Streak"/>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Av75sh&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" alt="Top Languages" />
-</p>
